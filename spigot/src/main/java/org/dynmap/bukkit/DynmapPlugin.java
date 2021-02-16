@@ -560,7 +560,7 @@ public class DynmapPlugin extends JavaPlugin implements DynmapAPI {
                 } catch (InvocationTargetException e) {
                 }
             }
-            return null;
+            return "69";
         }
 
 
